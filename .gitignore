@@ -1,0 +1,17 @@
+# See https://docs.github.com/en/get-started/quickstart/gitignore-template
+*.pyc
+__pycache__/
+.env
+.env.*
+.DS_Store
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.vscode/
+# Data and output files
+*.csv
+*.txt
