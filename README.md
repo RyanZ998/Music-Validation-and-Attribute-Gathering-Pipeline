@@ -25,3 +25,7 @@ A pipeline for processing and analyzing music data, including audio features, ly
 
 ## License
 MIT License
+
+## Tools
+This project uses data from [GetSongBPM](https://getsongbpm.com).
+
