@@ -3,7 +3,7 @@ from datetime import date
 
 # Load original and final outputs
 orig = pd.read_csv("songs.csv")  # must have Title, Artist
-final = pd.read_csv("step3_full_dataset.csv")
+final = pd.read_csv("step2_lyrics_output.csv")
 
 # Normalize for safer matching
 for df in (orig, final):

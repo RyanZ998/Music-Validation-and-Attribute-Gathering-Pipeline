@@ -1,0 +1,914 @@
+{
+  "gymnopédie no.1|||erik satie": {
+    "BPM": 90.66611842105263,
+    "Mode": "Major"
+  },
+  "una mattina|||ludovico einaudi": {
+    "BPM": 135.99917763157896,
+    "Mode": "Major"
+  },
+  "prelude in e minor|||frédéric chopin": {
+    "BPM": 140.625,
+    "Mode": "Major"
+  },
+  "clair de lune|||claude debussy": {
+    "BPM": 114.84375,
+    "Mode": "Minor"
+  },
+  "spiegel im spiegel|||arvo pärt": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "canon in d|||pachelbel": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "für elise|||ludwig van beethoven": {
+    "BPM": 135.99917763157896,
+    "Mode": "Major"
+  },
+  "the four seasons: \"spring\"|||antonio vivaldi": {
+    "BPM": 132.51201923076923,
+    "Mode": "Minor"
+  },
+  "nocturne op. 9 no. 2|||frédéric chopin": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "morning mood|||edvard grieg": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "river flows in you|||yiruma": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "nuvole bianche|||ludovico einaudi": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "pavane|||gabriel fauré": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "someone like you|||adele": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "let it be|||the beatles": {
+    "BPM": 147.65625,
+    "Mode": "Major"
+  },
+  "fix you|||coldplay": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "the a team|||ed sheeran": {
+    "BPM": 112.34714673913044,
+    "Mode": "Major"
+  },
+  "skinny love|||bon iver": {
+    "BPM": 147.65625,
+    "Mode": "Major"
+  },
+  "brave|||sara bareilles": {
+    "BPM": 92.28515625,
+    "Mode": "Minor"
+  },
+  "you’ve got the love|||florence + the machine": {
+    "BPM": 109.95678191489361,
+    "Mode": "Minor"
+  },
+  "human|||christina perri": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "the climb|||miley cyrus": {
+    "BPM": 156.60511363636363,
+    "Mode": "Major"
+  },
+  "rise up|||andra day": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "keep breathing|||ingrid michaelson": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "vienna|||billy joel": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "let her go|||passenger": {
+    "BPM": 147.65625,
+    "Mode": "Major"
+  },
+  "youth|||daughter": {
+    "BPM": 99.38401442307692,
+    "Mode": "Major"
+  },
+  "breathe me|||sia": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "i’m still standing|||elton john": {
+    "BPM": 89.10290948275862,
+    "Mode": "Minor"
+  },
+  "beautiful|||christina aguilera": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "somewhere only we know|||keane": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "home|||phillip phillips": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "lost stars|||adam levine": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "fire and rain|||james taylor": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "fast car|||tracy chapman": {
+    "BPM": 105.46875,
+    "Mode": "Major"
+  },
+  "peace|||taylor swift": {
+    "BPM": null,
+    "Mode": null
+  },
+  "holocene|||bon iver": {
+    "BPM": 147.65625,
+    "Mode": "Minor"
+  },
+  "both sides now|||joni mitchell": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "landslide|||fleetwood mac": {
+    "BPM": 105.46875,
+    "Mode": "Minor"
+  },
+  "the sound of silence|||simon & garfunkel": {
+    "BPM": 105.46875,
+    "Mode": "Minor"
+  },
+  "light on|||maggie rogers": {
+    "BPM": 101.33272058823529,
+    "Mode": "Major"
+  },
+  "better days|||onerepublic": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "shake it out|||florence + the machine": {
+    "BPM": 107.666015625,
+    "Mode": "Major"
+  },
+  "glósóli|||sigur rós": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "this is me|||keala settle": {
+    "BPM": 126.04801829268293,
+    "Mode": "Minor"
+  },
+  "hallelujah|||jeff buckley": {
+    "BPM": 103.359375,
+    "Mode": "Major"
+  },
+  "intermezzo in a major op. 118 no. 2|||johannes brahms": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "adagio for strings|||samuel barber": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "the swan|||camille saint-saëns": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "prelude in c major|||j.s. bach": {
+    "BPM": 103.359375,
+    "Mode": "Major"
+  },
+  "reverie|||claude debussy": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "fantasia on a theme by thomas tallis|||ralph vaughan williams": {
+    "BPM": 126.04801829268293,
+    "Mode": "Minor"
+  },
+  "scenes from childhood: “dreaming”|||robert schumann": {
+    "BPM": 119.68085106382979,
+    "Mode": "Major"
+  },
+  "la fille aux cheveux de lin|||claude debussy": {
+    "BPM": 114.84375,
+    "Mode": "Minor"
+  },
+  "melodia africana i|||ludovico einaudi": {
+    "BPM": 161.4990234375,
+    "Mode": "Major"
+  },
+  "the lark ascending|||ralph vaughan williams": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "heal|||tom odell": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "unwell|||matchbox twenty": {
+    "BPM": 161.4990234375,
+    "Mode": "Major"
+  },
+  "not about angels|||birdy": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "clean|||taylor swift": {
+    "BPM": 119.68085106382979,
+    "Mode": "Major"
+  },
+  "satellite|||guster": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "half the world away|||aurora": {
+    "BPM": 114.84375,
+    "Mode": "Minor"
+  },
+  "come home|||onerepublic": {
+    "BPM": 135.99917763157896,
+    "Mode": "Major"
+  },
+  "shiver|||lucy rose": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "as it was|||harry styles": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "i will follow you into the dark|||death cab for cutie": {
+    "BPM": 105.46875,
+    "Mode": "Major"
+  },
+  "the night we met|||lord huron": {
+    "BPM": 119.68085106382979,
+    "Mode": "Minor"
+  },
+  "everything i wanted|||billie eilish": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "forever young|||alphaville": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "in my veins|||andrew belle": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "ordinary people|||john legend": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "beginning middle end|||leah nobel": {
+    "BPM": 156.60511363636363,
+    "Mode": "Major"
+  },
+  "somewhere in my memory|||john williams": {
+    "BPM": 101.33272058823529,
+    "Mode": "Major"
+  },
+  "orinoco flow|||enya": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "northern sky|||nick drake": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "holes|||passenger": {
+    "BPM": 120.96774193548386,
+    "Mode": "Minor"
+  },
+  "angel|||sarah mclachlan": {
+    "BPM": 114.84375,
+    "Mode": "Minor"
+  },
+  "good riddance|||green day": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "better man|||leon bridges": {
+    "BPM": 93.96306818181819,
+    "Mode": "Minor"
+  },
+  "the scientist|||coldplay": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "xo|||beyoncé": {
+    "BPM": 112.34714673913044,
+    "Mode": "Major"
+  },
+  "why georgia|||john mayer": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "hard to say i’m sorry|||chicago": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "from afar|||vance joy": {
+    "BPM": 112.34714673913044,
+    "Mode": "Major"
+  },
+  "let me in|||grouplove": {
+    "BPM": 129.19921875,
+    "Mode": "Minor"
+  },
+  "creep|||radiohead": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "new soul|||yael naim": {
+    "BPM": 99.38401442307692,
+    "Mode": "Major"
+  },
+  "everything's not lost|||coldplay": {
+    "BPM": 135.99917763157896,
+    "Mode": "Major"
+  },
+  "i see the light|||mandy moore & zachary levi": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "songbird|||eva cassidy": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "dandelions|||ruth b.": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "air on the g string|||j.s. bach": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "méditation from thaïs|||jules massenet": {
+    "BPM": 119.68085106382979,
+    "Mode": "Major"
+  },
+  "romance for violin and orchestra|||antonín dvořák": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "traumerei|||robert schumann": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "etude op. 10 no. 3|||frédéric chopin": {
+    "BPM": null,
+    "Mode": null
+  },
+  "lament|||frank bridge": {
+    "BPM": null,
+    "Mode": null
+  },
+  "ave maria|||franz schubert": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "on the nature of daylight|||max richter": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "adagio in g minor|||albinoni / giazotto": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "vocalise|||rachmaninoff": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "everybody hurts|||r.e.m.": {
+    "BPM": 95.703125,
+    "Mode": "Major"
+  },
+  "beneath your beautiful|||labrinth ft. emeli sandé": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "almost lover|||a fine frenzy": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "this woman’s work|||kate bush": {
+    "BPM": 126.04801829268293,
+    "Mode": "Minor"
+  },
+  "your love is a song|||switchfoot": {
+    "BPM": 161.4990234375,
+    "Mode": "Major"
+  },
+  "the night is still young|||billy joel": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "shelter|||finneas": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "this year|||the mountain goats": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "7 years|||lukas graham": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "saturn|||sleeping at last": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "all i want|||kodaline": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "be still|||the killers": {
+    "BPM": 132.51201923076923,
+    "Mode": "Minor"
+  },
+  "when we were young|||adele": {
+    "BPM": 132.51201923076923,
+    "Mode": "Minor"
+  },
+  "so far away|||carole king": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "lost|||dermot kennedy": {
+    "BPM": 139.6748310810811,
+    "Mode": "Minor"
+  },
+  "breakeven|||the script": {
+    "BPM": 93.96306818181819,
+    "Mode": "Minor"
+  },
+  "promise|||ben howard": {
+    "BPM": 107.666015625,
+    "Mode": "Minor"
+  },
+  "the power of good-bye|||madonna": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "slow dancing in a burning room|||john mayer": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "i'm with you|||avril lavigne": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "the blower’s daughter|||damien rice": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "old pine|||ben howard": {
+    "BPM": 147.65625,
+    "Mode": "Major"
+  },
+  "river|||leon bridges": {
+    "BPM": 135.99917763157896,
+    "Mode": "Minor"
+  },
+  "walking on broken glass|||annie lennox": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "rainbow|||kacey musgraves": {
+    "BPM": 129.19921875,
+    "Mode": "Minor"
+  },
+  "what a wonderful world|||louis armstrong": {
+    "BPM": 117.1875,
+    "Mode": "Major"
+  },
+  "i giorni|||ludovico einaudi": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "breathe|||pink floyd": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "the book of love|||peter gabriel": {
+    "BPM": 129.19921875,
+    "Mode": "Minor"
+  },
+  "it’s quiet uptown|||hamilton cast": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "far away|||ingrid michaelson": {
+    "BPM": 99.38401442307692,
+    "Mode": "Major"
+  },
+  "you were meant for me|||jewel": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "perfect places|||lorde": {
+    "BPM": 105.46875,
+    "Mode": "Major"
+  },
+  "open season|||high highs": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "if you want to sing out, sing out|||cat stevens": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "cold|||jorge méndez": {
+    "BPM": 143.5546875,
+    "Mode": "Minor"
+  },
+  "my immortal|||evanescence": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "in the bleak midwinter|||gustav holst / christina rossetti": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "sicilienne|||maria theresia von paradis": {
+    "BPM": 122.28260869565217,
+    "Mode": "Major"
+  },
+  "the moldau|||bedřich smetana": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "liebesträume no. 3|||franz liszt": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "serenade in e flat|||mozart": {
+    "BPM": 114.84375,
+    "Mode": "Minor"
+  },
+  "nocturne in c-sharp minor|||chopin": {
+    "BPM": 119.68085106382979,
+    "Mode": "Minor"
+  },
+  "arabesque no. 1|||claude debussy": {
+    "BPM": 122.28260869565217,
+    "Mode": "Minor"
+  },
+  "the planets: “venus”|||gustav holst": {
+    "BPM": null,
+    "Mode": null
+  },
+  "lyric pieces, op. 12: no. 1|||edvard grieg": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "ombra mai fu|||handel": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "how long will i love you|||ellie goulding": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "say|||john mayer": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "let me down slowly|||alec benjamin": {
+    "BPM": 147.65625,
+    "Mode": "Minor"
+  },
+  "i’ll keep you safe|||sleeping at last": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "lost in my mind|||the head and the heart": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "to build a home|||the cinematic orchestra": {
+    "BPM": 143.5546875,
+    "Mode": "Major"
+  },
+  "somewhere|||west side story cast": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "better together|||jack johnson": {
+    "BPM": 109.95678191489361,
+    "Mode": "Major"
+  },
+  "the story|||brandi carlile": {
+    "BPM": 93.96306818181819,
+    "Mode": "Major"
+  },
+  "all the pretty girls|||kaleo": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "come away with me|||norah jones": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "pictures of you|||the cure": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "fresh roses|||juke ross": {
+    "BPM": 97.50884433962264,
+    "Mode": "Major"
+  },
+  "unsteady|||x ambassadors": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "golden|||harry styles": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "family tree|||kings of leon": {
+    "BPM": 103.359375,
+    "Mode": "Major"
+  },
+  "the luckiest|||ben folds": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "i know places|||lykke li": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "like real people do|||hozier": {
+    "BPM": 135.99917763157896,
+    "Mode": "Major"
+  },
+  "my mind is for sale|||jack johnson": {
+    "BPM": 99.38401442307692,
+    "Mode": "Major"
+  },
+  "timshel|||mumford & sons": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "everything’s right|||matt wertz": {
+    "BPM": 132.51201923076923,
+    "Mode": "Minor"
+  },
+  "wings|||birdy": {
+    "BPM": 166.70866935483872,
+    "Mode": "Major"
+  },
+  "don’t worry about me|||frances": {
+    "BPM": 143.5546875,
+    "Mode": "Major"
+  },
+  "ophelia|||the lumineers": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "before you go|||lewis capaldi": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "wild horses|||the rolling stones": {
+    "BPM": 135.99917763157896,
+    "Mode": "Major"
+  },
+  "another love|||tom odell": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "when the party’s over|||billie eilish": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  },
+  "georgia|||vance joy": {
+    "BPM": 97.50884433962264,
+    "Mode": "Major"
+  },
+  "she used to be mine|||sara bareilles": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "not|||big thief": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "stay alive|||hamilton cast": {
+    "BPM": 126.04801829268293,
+    "Mode": "Minor"
+  },
+  "house of gold|||twenty one pilots": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "she|||dodie": {
+    "BPM": 119.68085106382979,
+    "Mode": "Major"
+  },
+  "the parting glass|||the high kings": {
+    "BPM": 126.04801829268293,
+    "Mode": "Minor"
+  },
+  "fantaisie-impromptu in c# minor|||frédéric chopin": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "salut d'amour|||edward elgar": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "intermezzo in a major, op. 118 no. 2|||johannes brahms": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "oboe concerto in d minor, adagio|||alessandro marcello": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "adagio cantabile|||ludwig van beethoven": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "berceuse, op. 57|||chopin": {
+    "BPM": 126.04801829268293,
+    "Mode": "Minor"
+  },
+  "the heart asks pleasure first|||michael nyman": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "gnossienne no. 1|||erik satie": {
+    "BPM": 137.83700435633003,
+    "Mode": "Major"
+  },
+  "love in the dark|||adele": {
+    "BPM": 117.45383522727273,
+    "Mode": "Major"
+  },
+  "youth|||troye sivan": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "keep your head up|||andy grammer": {
+    "BPM": 90.66611842105263,
+    "Mode": "Major"
+  },
+  "in my blood|||shawn mendes": {
+    "BPM": 139.6748310810811,
+    "Mode": "Major"
+  },
+  "all i do is dream of you|||michael bublé": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "sleep on the floor|||the lumineers": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "sweet disposition|||the temper trap": {
+    "BPM": 129.19921875,
+    "Mode": "Major"
+  },
+  "shallow|||lady gaga & bradley cooper": {
+    "BPM": 97.50884433962264,
+    "Mode": "Major"
+  },
+  "free fallin’|||tom petty": {
+    "BPM": 166.70866935483872,
+    "Mode": "Major"
+  },
+  "stay alive|||josé gonzález": {
+    "BPM": 129.19921875,
+    "Mode": "Minor"
+  },
+  "postcards from italy|||beirut": {
+    "BPM": 119.68085106382979,
+    "Mode": "Major"
+  },
+  "what sarah said|||death cab for cutie": {
+    "BPM": 132.51201923076923,
+    "Mode": "Major"
+  },
+  "fireflies|||owl city": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "falling in love at a coffee shop|||landon pigg": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "the stable song|||gregory alan isakov": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "the bones|||maren morris": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "gravity|||sara bareilles": {
+    "BPM": 126.04801829268293,
+    "Mode": "Major"
+  },
+  "don’t dream it’s over|||crowded house": {
+    "BPM": 161.4990234375,
+    "Mode": "Minor"
+  },
+  "girl in the war|||josh ritter": {
+    "BPM": 117.45383522727273,
+    "Mode": "Minor"
+  },
+  "rescue|||lauren daigle": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "all we do|||oh wonder": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "slow mover|||angie mcmahon": {
+    "BPM": 123.046875,
+    "Mode": "Minor"
+  },
+  "arizona|||kings of leon": {
+    "BPM": 156.60511363636363,
+    "Mode": "Major"
+  },
+  "say yes|||elliott smith": {
+    "BPM": 147.65625,
+    "Mode": "Major"
+  },
+  "lilo|||the japanese house": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "i feel it all|||feist": {
+    "BPM": 112.34714673913044,
+    "Mode": "Minor"
+  },
+  "the light|||the album leaf": {
+    "BPM": 103.359375,
+    "Mode": "Minor"
+  },
+  "idaho|||nerina pallot": {
+    "BPM": 151.99908088235293,
+    "Mode": "Major"
+  },
+  "hold back the river|||james bay": {
+    "BPM": 90.66611842105263,
+    "Mode": "Major"
+  },
+  "cranes in the sky|||solange": {
+    "BPM": 120.18531976744185,
+    "Mode": "Major"
+  },
+  "this must be the place|||talking heads": {
+    "BPM": 114.84375,
+    "Mode": "Major"
+  },
+  "if you leave|||omd": {
+    "BPM": null,
+    "Mode": null
+  },
+  "storm comin’|||the wailin’ jennys": {
+    "BPM": 120.18531976744185,
+    "Mode": "Minor"
+  },
+  "even if|||mercyme": {
+    "BPM": 161.4990234375,
+    "Mode": "Major"
+  },
+  "the great escape|||woodkid": {
+    "BPM": 107.666015625,
+    "Mode": "Major"
+  },
+  "oceans|||hillsong united": {
+    "BPM": 123.046875,
+    "Mode": "Major"
+  }
+}
